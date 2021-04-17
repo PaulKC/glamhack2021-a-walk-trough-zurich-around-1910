@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+#wrapper {}
+
+#mapid {
+    height: 100vh;
+}
+
+.popup-image {
+    max-width: 60vw;
+    max-height: 70vh;
+}
+
+#sliderWrapper {
+    position: absolute;
+    top: 90%;
+    left: 50px;
+    z-index: 1000;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);;
+}
+
+#sliderWrapper .lbl-year{
+vertical-align: top;
+}
+
+#opacitySlider {
+    width: 200px;
+}
