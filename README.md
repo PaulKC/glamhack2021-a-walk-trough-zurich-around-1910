@@ -1,6 +1,6 @@
 # A walk trough Zurich around 1910
 
-A map of all the photos of the dataset [Zürich um 1910](https://baz.e-pics.ethz.ch/index.jspx?category=26207#1618649672037_0) taken by Friedrich Ruef-Hirt. Developed during the [GLAMHack 2021](https://library.ethz.ch/aktuell/veranstaltungen/glamhack-2021.html).
+A map of all the photos of the dataset [Zürich um 1910](http://baz.e-pics.ethz.ch/index.jspx?category=801) taken by Friedrich Ruef-Hirt. Developed during the [GLAMHack 2021](https://library.ethz.ch/aktuell/veranstaltungen/glamhack-2021.html).
 
 ![Screenshot](doc/screenshot.png)
 
